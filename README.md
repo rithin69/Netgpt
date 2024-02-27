@@ -45,6 +45,6 @@ The project is organized into various components and features, including user au
 - **Responsive Design:** Seamless user experience across devices.
 
 
-Visit [NetflixGPT]() to experience the app live.
+Visit [NetflixGPT](https://netflixai.vercel.app/) to experience the app live.
 
 Enjoy NetflixGPT ! 🎉
