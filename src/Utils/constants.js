@@ -10,7 +10,7 @@ export const API_OPTIONS = {
   method: "GET",
   headers: {
     accept: "application/json",
-    Authorization: "Bearer " + process.env.REACT_APP_TMDB_API,
+    Authorization: "Bearer " + process.env.REACT_APP_TMDBAPI,
     
     
   },
@@ -21,7 +21,7 @@ export const API_OPTIONS_1 = {
   headers: {
     accept: "application/json",
     Authorization: 
-    "Bearer " + process.env.REACT_APP_TMDB_API2,
+    "Bearer " + process.env.REACT_APP_TMDBAPI2,
     
     
   },
